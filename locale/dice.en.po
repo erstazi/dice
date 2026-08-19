@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "[2-1000]"
+msgstr "[2-1000]"
+
+msgid "Roll a dice"
+msgstr "Roll a dice"
+
+msgid "Usage: /dice [2-1000]"
+msgstr "Usage: /dice [2-1000]"
+
+msgid "Player @1 rolled the dice, and got @2 out of @3!"
+msgstr "Player @1 rolled the dice, and got @2 out of @3!"
+
+msgid "Player @1 won the 1/@2 chance!"
+msgstr "Player @1 won the 1/@2 chance!"
+
+msgid "Player @1 lost the 1/@2 chance."
+msgstr "Player @1 lost the 1/@2 chance."

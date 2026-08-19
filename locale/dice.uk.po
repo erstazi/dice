@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Language: uk\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "[2-1000]"
+msgstr "[2-1000]"
+
+msgid "Roll a dice"
+msgstr "Кинути кубик"
+
+msgid "Usage: /dice [2-1000]"
+msgstr "Використання: /dice [2-1000]"
+
+msgid "Player @1 rolled the dice, and got @2 out of @3!"
+msgstr "Гравець @1 кинув кубик, і йому випало @2 з @3!"
+
+msgid "Player @1 won the 1/@2 chance!"
+msgstr "Гравець @1 виграв із шансом 1/@2!"
+
+msgid "Player @1 lost the 1/@2 chance."
+msgstr "Гравець @1 програв із шансом 1/@2."
