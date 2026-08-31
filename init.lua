@@ -14,6 +14,7 @@ core.register_chatcommand("dice", {
         return false, S("Usage: /dice [2-1000]")
       end
       local result = math.random(1, chance_den)
+      -- Player jesus spun the wheel, and won with a 50% chance!
       if result == 1 then
         core.chat_send_all( S("Player @1 won the 1/@2 chance!", name, chance_den) )
       else

@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dice\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "[2-1000]"
+msgstr "[2-1000]"
+
+msgid "Roll a dice"
+msgstr "掷骰子"
+
+msgid "Usage: /dice [2-1000]"
+msgstr "用法：/dice [2-1000]"
+
+msgid "Player @1 rolled the dice, and got @2 out of @3!"
+msgstr "玩家 @1 掷骰子，结果是 @3 中的 @2！"
+
+msgid "Player @1 won the 1/@2 chance!"
+msgstr "玩家 @1 赢得了 1/@2 的机会！"
+
+msgid "Player @1 lost the 1/@2 chance."
+msgstr "玩家 @1 输掉了 1/@2 的机会。"
