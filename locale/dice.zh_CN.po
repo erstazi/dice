@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: dice\n"
+"Language: zh_CN\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
